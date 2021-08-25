@@ -1,0 +1,23 @@
+{
+  "name": "built-ui",
+  "version": "1.0.0",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "build",
+    "ui"
+  ],
+  "author": "hieunguyen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hieu-PMV2911/Build_UI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hieu-PMV2911/Build_UI/issues"
+  },
+  "homepage": "https://github.com/Hieu-PMV2911/Build_UI#readme",
+  "description": ""
+}
